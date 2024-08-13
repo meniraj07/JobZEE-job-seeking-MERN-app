@@ -1,1 +1,1 @@
-"# JobZEE-job-seeking-MERN-app" 
+JobZEE is a user-friendly job-seeking platform where job seekers can easily find and apply for jobs that match their skills and interests. Employers can efficiently post job openings and manage applications, making the hiring process seamless and straightforward. With a focus on simplicity and accessibility, JobZEE connects talent with opportunity, helping both job seekers and employers achieve their goals.
